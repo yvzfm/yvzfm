@@ -25,8 +25,7 @@
 
 ### `$ whoami`
 
-I’m **Prince** — founder of [StudyBee](https://studybeepro.in).  
-I live in the ugly parts of the stack: auth, CDNs, HLS manifests, signed URLs, Cloudflare Pages Functions, and UIs that don’t look AI-generated.
+I’m **Prince** — founder of [StudyBee](https://studybeepro.in).
 
 Most people talk about “full stack”.  
 I ship the thing students tap when the lecture starts.
